@@ -69,6 +69,7 @@ export default function Auth() {
     <>
       <div className="max-w-md w-full space-y-8">
         <div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}    
           <img
             className="mx-auto h-12 w-auto"
             src="https://tailwindui.com/img/logos/workflow-mark-indigo-600.svg"

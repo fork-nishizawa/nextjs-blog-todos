@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { useRouter } from 'next/dist/client/router'
+import { useRouter } from 'next/router'
 import Layout from '../../components/Layout'
 import { getAllPostIds, getPostData } from '../../lib/post'
 
